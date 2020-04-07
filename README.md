@@ -1,10 +1,6 @@
 # TypeScriptStandardDevelop
 青蓝成长TS开发规范
 
-# Airbnb JavaScript Style Guide() {
-
-**用更合理的方式写 JavaScript**
-
 ES5 的编码规范请查看[版本一](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)，[版本二](https://github.com/adamlu/javascript-style-guide)。
 
 转载于 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) 。
